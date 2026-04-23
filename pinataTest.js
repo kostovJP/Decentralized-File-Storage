@@ -1,3 +1,4 @@
+// test pinata connection
 import pinataSDK from "@pinata/sdk";
 import dotenv from "dotenv";
 dotenv.config();
